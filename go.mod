@@ -1,4 +1,4 @@
-module github.com/m-mizutani/gofalcon
+module github.com/fivetran/gofalcon
 
 go 1.13
 

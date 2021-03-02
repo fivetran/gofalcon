@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/m-mizutani/gofalcon"
+	"github.com/fivetran/gofalcon"
 	"github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

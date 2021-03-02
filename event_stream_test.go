@@ -6,7 +6,7 @@ import (
 
 	"github.com/google/uuid"
 	"github.com/k0kubun/pp"
-	"github.com/m-mizutani/gofalcon"
+	"github.com/fivetran/gofalcon"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

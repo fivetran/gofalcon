@@ -24,7 +24,7 @@ import (
 	"os"
 
 	"github.com/k0kubun/pp"
-	"github.com/m-mizutani/gofalcon"
+	"github.com/fivetran/gofalcon"
 )
 
 func main() {
